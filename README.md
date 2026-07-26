@@ -26,7 +26,7 @@
 4. **先试用再付款** —— 能试用先试用，不能试用的就先买一个月试水。
 5. **太便宜的留个心眼** —— 低于市场定价的，除非是新机场赔本引流，不然要么超售要么准备跑路。
 6. **机场客户端推荐:**
->Windows：Clash-verge-rev、FlClash、V2rayN、Clash-Party 
+>Windows：Clash-verge-rev、V2rayN、Clash-Party 、FlClash  
 Mac：Clash-verge-rev、FlClash、Clash-Party  
 iOS：免费：ClashMi；付费：Stash、Loon、小火箭Shadowrocket  
 安卓：FlClash、Flyclash、ClashMetaforAndroid  
